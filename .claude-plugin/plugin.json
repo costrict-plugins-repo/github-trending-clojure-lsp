@@ -1,0 +1,13 @@
+{
+  "name": "clojure-lsp",
+  "description": "Clojure/ClojureScript language server for code intelligence",
+  "version": "1.0.0",
+  "author": {
+    "name": "Julien Cornebise",
+    "email": "julien+clojure.lsp.plugin@cornebise.com"
+  },
+  "homepage": "https://github.com/jucor/clojure-lsp-plugin",
+  "repository": "https://github.com/jucor/clojure-lsp-plugin",
+  "license": "Apache-2.0",
+  "category": "development"
+}
